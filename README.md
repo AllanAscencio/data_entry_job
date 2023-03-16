@@ -48,21 +48,7 @@ The Windows users need to navigate to the Python directory, and then install the
 Mac
 For MacOS, install Python through ‘Home Brew’. Thereafter, install pip and request module (which is the same as Linux installation process.)
 
-### Install Selenium:
 
-Use pip to install the selenium package. Python 3 has pip available in the standard library. Using pip, you can install selenium like this:
-
-```
-  pip install selenium
-```
-
-You may consider using virtualenv to create isolated Python environments. Python 3 has venv which is almost the same as virtualenv.
-
-You can also download Python bindings for Selenium from the [PyPI page for selenium package](https://pypi.org/project/selenium/). and install manually.
-
-If you need further documentation you can head to https://selenium-python.readthedocs.io/installation.html
-
-After Selenium is perfectly installed you should be able to run the code properly.
 
 ## Install BeautifulSoup4
 
@@ -97,7 +83,11 @@ If all else fails, the license for Beautiful Soup allows you to package the enti
 
 for further documentation in case of any problems visit https://beautiful-soup-4.readthedocs.io/en/latest/#installing-beautiful-soup
 
+
+
+
 ## Install Selenium:
+
 Use pip to install the selenium package. Python 3 has pip available in the standard library. Using pip, you can install selenium like this:
 
 ```
